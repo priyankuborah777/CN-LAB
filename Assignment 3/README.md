@@ -9,4 +9,4 @@ Same as given in Assignment 1.
 Learning Outcomes: 
 1. Basics of UDP socket programming.
 
-![screenshot](Assignment_3.png}
+![screenshot](Assignment_3.png)
