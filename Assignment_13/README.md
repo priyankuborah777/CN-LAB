@@ -21,4 +21,4 @@ Learning Outcomes:
 1. Learning to analyze packets and its corresponding protocols.
 2. Learning the roles of L2/L3/L4 protocols for a communication.
 
-![screenshot](Assignment_13)
+![screenshot](Assignment_13.jpg)
